@@ -20,6 +20,8 @@ Click **settings**(Gear icon)  > **Hotkeys**
 
 Then select the action you want to setup the shortcut.
 Click on plus sign at the right side of the action.
+Then press keys you want to use as shortcut (maximum 3 keys).
+Voila! You have set a new keyboard shortcut on Obsidian!
 
 ----insert an image of the interface-----
 
