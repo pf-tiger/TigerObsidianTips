@@ -23,7 +23,10 @@ Click on plus sign at the right side of the action.
 Then press keys you want to use as shortcut (maximum 3 keys).
 Voila! You have set a new keyboard shortcut on Obsidian!
 
-----insert an image of the interface-----
+![Obsidian settings interface](https://github.com/pf-tiger/TigerObsidianTips/blob/main/Screenshots/gearicon.png)
+![Obsidian Hotkey interface](https://github.com/pf-tiger/TigerObsidianTips/blob/main/Screenshots/Obsidian_hotkeys.png)
+
+
 
 ## Recommended Settings
 Here are recommended key combinations. Please contribute for more!
